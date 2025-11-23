@@ -1,6 +1,6 @@
 # LuminolCraft
 
-<img src="https://raw.githubusercontent.com/LuminolCraft/craft.luminolsuki.moe/refs/heads/main/images/4483d29a-1797-4817-a73d-2f44ed464a2e.webp" width = "150" height = "150" alt="logo" align=right />
+<img src="https://github.com/LuminolCraft/imagehosting/blob/main/images/4483d29a-1797-4817-a73d-2f44ed464a2e.webp?raw=true" width = "150" height = "150" alt="logo" align=right />
 
 一个由热情的管理员和玩家社区共建的 Minecraft 服务器
 
